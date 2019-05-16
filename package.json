@@ -1,5 +1,5 @@
 {
-  "name": "DefinitelyNotBot",
+  "name": "Big Hidler",
   "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
   "version": "1.0.0",
   "main": "bot.js",
@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
+    "noblox.js": "4.2.6",
+    "roblox-js": "4.0.4",
     "request": "2.81.0"
   }
 }
